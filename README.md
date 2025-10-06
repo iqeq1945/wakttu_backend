@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" />
-</p>
-
-<p align="center">
   <img src="./image.png" alt="Wakttu 정식 출시" />
 </p>
 
@@ -148,4 +144,5 @@ yarn test:e2e      # e2e tests
 
 ### 라이선스
 본 저장소의 소스는 사내/개인 프로젝트 용도로 사용됩니다. 외부 배포 정책은 별도 문의 바랍니다.
+
 
