@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="./image.png" alt="Wakttu 정식 출시" />
+</p>
+
+<p align="center">
   <b>Wakttu Backend</b> · 실시간 멀티플레이 미니게임 플랫폼 백엔드
 </p>
 
